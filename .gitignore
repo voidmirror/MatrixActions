@@ -30,3 +30,7 @@
 #*.exe
 *.out
 *.app
+
+# Addons
+Matrix.sdf
+Matrix.v12.suo
