@@ -36,8 +36,8 @@ int(*menu(void)) (int *result, int **global2, int **global3, int *action, int *d
 	printf("1. Transposition.\n");
 	printf("2. Multiply.\n");
 	printf("3. Determinant.\n");
-	printf("4. Cofactor matrix (2x2 or 3x3 only) NOT WORKING.\n");
-	printf("5. Reverse matrix (2x2 or 3x3 only) NOT WORKING.\n");
+	printf("4. Cofactor matrix (2x2 or 3x3 only) DOESN\'T WORK.\n");
+	printf("5. Reverse matrix (2x2 or 3x3 only) DOESN\'T WORK.\n");
 	printf("Enter number of operation: ");
 	scanf("%d", &choice);
 	system("cls");

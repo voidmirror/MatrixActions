@@ -1,16 +1,18 @@
-﻿Сборка начата 08.09.2019 21:46:05.
-     1>Проект "D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Matrix\Matrix.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 18.09.2019 8:21:36.
+     1>Проект "D:\Programmes files 7\GitHub\Repositories\MatrixActions\Matrix\Matrix.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
-         D:\Programmes files 7\Visual Studio 2013\Program\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp
+         D:\Programmes files 7\Visual Studio 2013\Program\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp TheMain.cpp
+         TheMain.cpp
          Functions.cpp
-     1>d:\programmes files 7\visual studio 2013\projects\maintest\matrix\matrix\functions.cpp(178): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>d:\programmes files 7\visual studio 2013\projects\maintest\matrix\matrix\functions.cpp(141): warning C4715: transpos: значение возвращается не при всех путях выполнения
+     1>d:\programmes files 7\github\repositories\matrixactions\matrix\functions.cpp(178): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Создание кода...
+     1>d:\programmes files 7\github\repositories\matrixactions\matrix\functions.cpp(141): warning C4715: transpos: значение возвращается не при всех путях выполнения
        Link:
-         D:\Programmes files 7\Visual Studio 2013\Program\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Debug\Matrix.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Debug\Matrix.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Debug\Matrix.lib" /MACHINE:X86 Debug\Functions.obj
+         D:\Programmes files 7\Visual Studio 2013\Program\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programmes files 7\GitHub\Repositories\MatrixActions\Debug\Matrix.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programmes files 7\GitHub\Repositories\MatrixActions\Debug\Matrix.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programmes files 7\GitHub\Repositories\MatrixActions\Debug\Matrix.lib" /MACHINE:X86 Debug\Functions.obj
          Debug\TheMain.obj
-         Matrix.vcxproj -> D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Debug\Matrix.exe
-     1>Сборка проекта "D:\Programmes files 7\Visual Studio 2013\Projects\MainTest\Matrix\Matrix\Matrix.vcxproj" завершена (целевые объекты Build).
+         Matrix.vcxproj -> D:\Programmes files 7\GitHub\Repositories\MatrixActions\Debug\Matrix.exe
+     1>Сборка проекта "D:\Programmes files 7\GitHub\Repositories\MatrixActions\Matrix\Matrix.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:00.25
+Затраченное время: 00:00:02.32
